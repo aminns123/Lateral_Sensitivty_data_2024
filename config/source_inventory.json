@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "SOURCE_01",
+    "original_basename": "analysis_bootstrap_ISF_storeDATA.py",
+    "source_sha256": "0a033ee858d3ba7af3f30f375630f8e50c3e1cbeaaf98303304ae0999574136a",
+    "role": "Storage driver"
+  },
+  {
+    "source_id": "SOURCE_02",
+    "original_basename": "analysis_bootstrap_ISF_saveFitted_Data_MLE.py",
+    "source_sha256": "2ec275da7e3d8672669165417ac55600f50eb03f433b74bf1d1a9bb230ea8ce9",
+    "role": "Current fitting driver; not exact historical writer"
+  },
+  {
+    "source_id": "SOURCE_03",
+    "original_basename": "analysis_difference_kn_kp.py",
+    "source_sha256": "1f59ec85610cc80de8d9855bfa5be5a9288bf2a74c8e2c2b3cf6dc62df6aee1f",
+    "role": "Current plotting driver"
+  },
+  {
+    "source_id": "SOURCE_04",
+    "original_basename": "functionUSE.py",
+    "source_sha256": "894c1188a8493eccc4d69088b155426d3080affa38668b792e02ce5d97866db9",
+    "role": "Current author helpers"
+  },
+  {
+    "source_id": "SOURCE_05",
+    "original_basename": "functionUSE.py",
+    "source_sha256": "d46c62d47a0a1d813831dbc45cc2d6eb22782937d04b1dd186d0d3c57517eb78",
+    "role": "Older author helpers used by storage driver"
+  },
+  {
+    "source_id": "THESIS",
+    "original_basename": "thesis.pdf",
+    "source_sha256": "36b3595d4c9f90e6727ba13e4d9b96e7d880b660a6080893e975d69434d739ed",
+    "role": "Alexander A. Minns, doctoral thesis, Loughborough University, May 2026"
+  }
+]

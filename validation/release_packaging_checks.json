@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "public_text_private_path_scan": "PASS",
+  "documentation_links": "PASS",
+  "git_core_autocrlf_true_text_roundtrip": "PASS",
+  "public_pngs": 34,
+  "pdf_guide_pages": 3
+}

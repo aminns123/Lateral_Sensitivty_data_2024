@@ -1,0 +1,9 @@
+{
+  "conditions": 17,
+  "accepted_rows": 280785,
+  "candidate_clusters_thesis_percentiles": 34,
+  "representative_rule_disagreements": 27,
+  "source_peak_locator": "smoothed histogram spline; KDE used separately for display and mass",
+  "original_figure_pixel_identity_claimed": false,
+  "saved_row_to_input_pairing_verified": false
+}

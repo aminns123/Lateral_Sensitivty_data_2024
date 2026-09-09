@@ -1,0 +1,380 @@
+[
+  {
+    "condition_id": "P01_L010",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 29769,
+    "spline_peak_cpd": 2.755261261261261
+  },
+  {
+    "condition_id": "P01_L010",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 9484,
+    "spline_peak_cpd": 2.755261261261261
+  },
+  {
+    "condition_id": "P01_L010",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 32782,
+    "spline_peak_cpd": 4.30176274338855
+  },
+  {
+    "condition_id": "P01_L010",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 12165,
+    "spline_peak_cpd": 4.30176274338855
+  },
+  {
+    "condition_id": "P01_L020",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 280,
+    "spline_peak_cpd": 3.662016016016016
+  },
+  {
+    "condition_id": "P01_L020",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 55,
+    "spline_peak_cpd": 3.662016016016016
+  },
+  {
+    "condition_id": "P01_L025",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 27771,
+    "spline_peak_cpd": 2.8415512286480027
+  },
+  {
+    "condition_id": "P01_L025",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 9115,
+    "spline_peak_cpd": 2.8415512286480027
+  },
+  {
+    "condition_id": "P01_L025",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 49628,
+    "spline_peak_cpd": 5.025993735671155
+  },
+  {
+    "condition_id": "P01_L025",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 2786,
+    "spline_peak_cpd": 5.025993735671155
+  },
+  {
+    "condition_id": "P01_L050",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 30673,
+    "spline_peak_cpd": 6.051075591720752
+  },
+  {
+    "condition_id": "P01_L050",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 13601,
+    "spline_peak_cpd": 6.051075591720752
+  },
+  {
+    "condition_id": "P01_L200",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 15647,
+    "spline_peak_cpd": 6.431023420194387
+  },
+  {
+    "condition_id": "P01_L200",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 7070,
+    "spline_peak_cpd": 6.431023420194387
+  },
+  {
+    "condition_id": "P02_L010",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 10588,
+    "spline_peak_cpd": 3.6762569020633533
+  },
+  {
+    "condition_id": "P02_L010",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 1646,
+    "spline_peak_cpd": 3.6762569020633533
+  },
+  {
+    "condition_id": "P02_L010",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 4353,
+    "spline_peak_cpd": 6.073815751235106
+  },
+  {
+    "condition_id": "P02_L010",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 1942,
+    "spline_peak_cpd": 6.073815751235106
+  },
+  {
+    "condition_id": "P02_L026",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 12873,
+    "spline_peak_cpd": 3.644547047047047
+  },
+  {
+    "condition_id": "P02_L026",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 4841,
+    "spline_peak_cpd": 3.644547047047047
+  },
+  {
+    "condition_id": "P02_L026",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 8403,
+    "spline_peak_cpd": 7.84022072072072
+  },
+  {
+    "condition_id": "P02_L026",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 813,
+    "spline_peak_cpd": 7.84022072072072
+  },
+  {
+    "condition_id": "P02_L049",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 44244,
+    "spline_peak_cpd": 2.5770852949723917
+  },
+  {
+    "condition_id": "P02_L049",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 720,
+    "spline_peak_cpd": 2.5770852949723917
+  },
+  {
+    "condition_id": "P02_L049",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 9211,
+    "spline_peak_cpd": 5.669587648939261
+  },
+  {
+    "condition_id": "P02_L049",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 3584,
+    "spline_peak_cpd": 5.669587648939261
+  },
+  {
+    "condition_id": "P02_L100",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 11162,
+    "spline_peak_cpd": 3.84055518744551
+  },
+  {
+    "condition_id": "P02_L100",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 4373,
+    "spline_peak_cpd": 3.84055518744551
+  },
+  {
+    "condition_id": "P02_L100",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 43725,
+    "spline_peak_cpd": 5.920855913978494
+  },
+  {
+    "condition_id": "P02_L100",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 4778,
+    "spline_peak_cpd": 5.920855913978494
+  },
+  {
+    "condition_id": "P03_L010",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 40001,
+    "spline_peak_cpd": 4.105785750266396
+  },
+  {
+    "condition_id": "P03_L010",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 21375,
+    "spline_peak_cpd": 4.105785750266396
+  },
+  {
+    "condition_id": "P03_L010",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 17376,
+    "spline_peak_cpd": 6.291983357551099
+  },
+  {
+    "condition_id": "P03_L010",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 2886,
+    "spline_peak_cpd": 6.291983357551099
+  },
+  {
+    "condition_id": "P03_L049",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 2004,
+    "spline_peak_cpd": 1.8484278084536154
+  },
+  {
+    "condition_id": "P03_L049",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 5729,
+    "spline_peak_cpd": 1.8484278084536154
+  },
+  {
+    "condition_id": "P03_L049",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 13270,
+    "spline_peak_cpd": 3.0925619102973947
+  },
+  {
+    "condition_id": "P03_L049",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 4521,
+    "spline_peak_cpd": 3.0925619102973947
+  },
+  {
+    "condition_id": "P03_L200",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 46290,
+    "spline_peak_cpd": 4.65520337757112
+  },
+  {
+    "condition_id": "P03_L200",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 1534,
+    "spline_peak_cpd": 4.65520337757112
+  },
+  {
+    "condition_id": "P03_L200",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 20887,
+    "spline_peak_cpd": 6.911733259065517
+  },
+  {
+    "condition_id": "P03_L200",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 202,
+    "spline_peak_cpd": 6.911733259065517
+  },
+  {
+    "condition_id": "P04_L010",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 4227,
+    "spline_peak_cpd": 2.988041037812005
+  },
+  {
+    "condition_id": "P04_L010",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 1824,
+    "spline_peak_cpd": 2.988041037812005
+  },
+  {
+    "condition_id": "P04_L010",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 1691,
+    "spline_peak_cpd": 3.942799712615841
+  },
+  {
+    "condition_id": "P04_L010",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 2156,
+    "spline_peak_cpd": 3.942799712615841
+  },
+  {
+    "condition_id": "P04_L049",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 1060,
+    "spline_peak_cpd": 3.8219473021408508
+  },
+  {
+    "condition_id": "P04_L049",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 483,
+    "spline_peak_cpd": 3.8219473021408508
+  },
+  {
+    "condition_id": "P04_L100",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 8633,
+    "spline_peak_cpd": 5.545216855565243
+  },
+  {
+    "condition_id": "P04_L100",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 6770,
+    "spline_peak_cpd": 5.545216855565243
+  },
+  {
+    "condition_id": "P04_L200",
+    "candidate_mode": 1,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 48451,
+    "spline_peak_cpd": 2.701089915722174
+  },
+  {
+    "condition_id": "P04_L200",
+    "candidate_mode": 1,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 20323,
+    "spline_peak_cpd": 2.701089915722174
+  },
+  {
+    "condition_id": "P04_L200",
+    "candidate_mode": 2,
+    "selection": "row_linked_max_fms",
+    "source_input_index": 14284,
+    "spline_peak_cpd": 5.828667712874165
+  },
+  {
+    "condition_id": "P04_L200",
+    "candidate_mode": 2,
+    "selection": "source_plotting_index_rule",
+    "source_input_index": 24248,
+    "spline_peak_cpd": 5.828667712874165
+  }
+]

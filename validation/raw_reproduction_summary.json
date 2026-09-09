@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "conditions": 17,
+  "staircases": 2469,
+  "detected_reversals": 25133,
+  "profile_points": 307,
+  "conditions_ratio_match_at_1e_12": 17,
+  "conditions_spread_match_at_1e_12": 17
+}

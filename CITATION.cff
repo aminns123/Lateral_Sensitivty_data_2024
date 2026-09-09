@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Unreleased local dataset. Confirm contributor attribution and add the dataset's own release DOI before public release. Do not reuse the CSF/PSF DOI."
+type: dataset
+title: "Lateral sensitivity and intrinsic spatial frequency: human psychophysics data"
+authors:
+  - family-names: Minns
+    given-names: Alexander A.
+abstract: "Empirical lateral sensitivity and intrinsic spatial frequency data for four thesis subjects, including diagnostic Subject 3 data. Preserved trials, resampling inputs, saved fits, derived tables, code and provenance."
+keywords:
+  - psychophysics
+  - lateral sensitivity
+  - intrinsic spatial frequency
+  - contrast sensitivity
+  - reversal-subset resampling

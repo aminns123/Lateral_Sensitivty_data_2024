@@ -1,0 +1,12 @@
+{
+  "sampled_fits": 85,
+  "sampled_errors": 0,
+  "sampled_optimizer_successes": 85,
+  "sampled_frequency_and_fms_match_4dp": 12,
+  "representative_refits": 54,
+  "representative_errors": 0,
+  "representative_optimizer_successes": 54,
+  "historical_row_to_input_identity_claimed": false,
+  "residual_removal_behavior": "source filtered-residual-array indices applied to original profile; preserved and disclosed",
+  "parameter_mapping": "ordered names; original fitting script uses unordered set names"
+}

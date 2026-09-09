@@ -1,0 +1,5 @@
+participant_id,thesis_subject,included_in_thesis_main_isf,scope,interpretation
+P01,1,True,Lateral sensitivity and ISF; all selected luminance conditions,Included in primary thesis ISF interpretation
+P02,2,True,Lateral sensitivity and ISF; all selected luminance conditions,Included in primary thesis ISF interpretation
+P03,3,False,Lateral sensitivity and ISF; all selected luminance conditions,Diagnostic only: excluded from primary thesis ISF interpretation for fit quality
+P04,4,True,Lateral sensitivity and ISF; all selected luminance conditions,Included in primary thesis ISF interpretation

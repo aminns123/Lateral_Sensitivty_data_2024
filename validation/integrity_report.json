@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "manifest_files_verified": 0,
+  "preserved_source_files_verified": 893,
+  "raw_files": 560,
+  "raw_trials": 115445,
+  "saved_fit_rows": 850000,
+  "accepted_fit_rows": 280785,
+  "bootstrap_original_files_reconstructed_and_verified": 1700000,
+  "bootstrap_points": 15350000,
+  "baseline_points_exactly_reproduced": 307,
+  "thesis_condition_counts_matched": 17,
+  "thesis_cluster_pairs_matched": 13,
+  "exported_trial_rows_verified": 115445,
+  "staircase_thresholds_verified": 2469,
+  "isf_endpoint_quantiles_verified": 27,
+  "limitations": "Integrity and table checks do not establish historical fitted-row-to-input identity. See docs/KNOWN_LIMITATIONS.md."
+}

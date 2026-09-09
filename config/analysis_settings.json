@@ -1,0 +1,51 @@
+{
+  "raw_trial_limit_per_staircase": 200,
+  "deterministic_threshold_reversals": "last five detected",
+  "resampling_reversal_indices_zero_based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "reversals_per_subset": 5,
+  "possible_subsets": 126,
+  "source_inputs_per_condition": 50000,
+  "input_zero": "Deterministic last-five profile",
+  "random_inputs_per_condition": 49999,
+  "historical_random_seed": null,
+  "threshold_within_staircase": "geometric mean",
+  "threshold_across_staircases": "arithmetic mean",
+  "log_base": "natural",
+  "spread": "sample SD (ddof=1) of all pairwise staircase log ratios",
+  "source_plot_errorbar": "spread / 2, not a confidence interval",
+  "fit_sigma_floor": 0.05,
+  "fit_model": "greenFUNC_phase; thesis Eq. B.25",
+  "flanker_edge_coordinate_deg": -0.5,
+  "saved_fit_screen_column_zero_based": 0,
+  "saved_frequency_column_zero_based": 9,
+  "fms_inclusive_bounds": [
+    0.8,
+    1
+  ],
+  "source_mode_peak_locator": "smoothed histogram spline",
+  "histogram_bins": 31,
+  "spline_lambda": 0.02,
+  "kde_bandwidth": "Scott x 1.0",
+  "kde_grid_points": 1000,
+  "mode_mass_minimum": 0.1,
+  "max_display_modes": 2,
+  "thesis_percentiles": [
+    0.5,
+    99.5
+  ],
+  "current_driver_percentiles": [
+    2.5,
+    97.5
+  ],
+  "historical_fit_row_to_input_identity_verified": false
+}

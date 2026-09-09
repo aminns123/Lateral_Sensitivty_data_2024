@@ -1,0 +1,9 @@
+source_collection,output,transformation
+Selected numeric acquisition files,data/raw/source_trials; data/raw/trial_files.csv,Public identifiers and gzip wrapping; numeric source bytes unchanged
+Acquisition parameter snapshots,data/raw/stimulus_metadata.csv,"Selected key/value text with names, paths and dates removed; originals retained privately"
+Selected original bootstrap profile and spread pairs,data/bootstrap; validation/*_bootstrap_sources.csv.gz,Joined on input index and exact position token; original layout and hashes retained for byte reconstruction
+Selected 17-column saved fit files,data/source/saved_fits; data/processed/*_saved_fits.csv.gz,"Original bytes preserved; named-column versions add row IDs, RA inclusion and blank historical success flag"
+Numeric trials and exact reversal helper,data/processed/staircase_*; lateral_profiles_recomputed.csv,Reversal extraction and baseline-candidate calculations; see methods
+Saved accepted fits and current peak helper,data/processed/isf_*; mode_assignments.csv.gz,Explicit histogram-spline candidate intervals; two percentile variants; separate retention flags
+Selected input examples and current fit helper,validation/*fit*.csv; data/processed/representative_*,New diagnostic replays; assumed historical row-to-input linkage
+Four supplied reference images,figures/reference,Public filenames; bytes unchanged

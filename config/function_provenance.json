@@ -1,0 +1,378 @@
+[
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "readText_toList",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1141,
+    "source_end_line": 1161,
+    "function_sha256": "103ce9ef41b011acdc8a489f5b8bc1e6cce713cd8d32d3b9e917f5f1b649f45f"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "PositionCondition",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1564,
+    "source_end_line": 1574,
+    "function_sha256": "46737145462d9538e5c781e0e3ec78e6a9cde6a832409231f631bb13c57b0185"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "accendingOrder",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1578,
+    "source_end_line": 1592,
+    "function_sha256": "e48c90e86674bb7910ab377b311ddeccb92f62a2e0aef49492aab3252e93b30a"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "condition1",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1626,
+    "source_end_line": 1636,
+    "function_sha256": "2bbfaf822970dd433897a4030302cd9b99b6b516393c1f0e2a8403d5433a423c"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "condition2",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1641,
+    "source_end_line": 1655,
+    "function_sha256": "cc273aa5dca59176599268465366616d4f2d57ffed3be9c22f08ecf5ca1944cd"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "condition3",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1660,
+    "source_end_line": 1669,
+    "function_sha256": "a42c85bd567b95d819ce73100b276cd7bbf91311035cfc5075bf969242af0d77"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "endCondition",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1674,
+    "source_end_line": 1687,
+    "function_sha256": "90d41c9b99de38c2f588cca502dfe70b84e9d0a5b240f4cd5a888ec8229060be"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "removeErrorIndex",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1692,
+    "source_end_line": 1705,
+    "function_sha256": "a98ec2447fc60bf3a78520afeeeb971a62395c317d94a3f04673d5168925b894"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "conditionP1End",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1710,
+    "source_end_line": 1716,
+    "function_sha256": "c9e70e340a366bdf1034ce65ab4c580452f3d64cbb911a855d667b942f71bf81"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "returnPositionList",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1772,
+    "source_end_line": 1783,
+    "function_sha256": "d28756174e25541545024a8539a0053692168ac3a2d438bc1720c20066b60f4f"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "listCombitorial",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1802,
+    "source_end_line": 1807,
+    "function_sha256": "985d7c24e91f6f6a74e26e5a12fd756b1948afca6df775afc86503bd707f35b4"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "find_indexPop_Complete",
+    "source_id": "SOURCE_05",
+    "source_start_line": 1811,
+    "source_end_line": 1862,
+    "function_sha256": "f103de3d611a3e2f260f065585af74548538b12dc508351594c3c431fc18cac6"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "findIndexFloat",
+    "source_id": "SOURCE_05",
+    "source_start_line": 2144,
+    "source_end_line": 2152,
+    "function_sha256": "cb86de13b12cf2436ed67b6f7b917c714734e198218b05d07d8957f5880df25a"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "count_type",
+    "source_id": "SOURCE_05",
+    "source_start_line": 4288,
+    "source_end_line": 4304,
+    "function_sha256": "dfddf87fbe62c68b27a0d6976b43505752596b303f78424882a0c6e8cc3b5fb2"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "count_values_type",
+    "source_id": "SOURCE_05",
+    "source_start_line": 4306,
+    "source_end_line": 4319,
+    "function_sha256": "6c72fad1963e5d5eb68f1130622119bbfd3ee8525bd02345ad33e8c134d74529"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "check_values",
+    "source_id": "SOURCE_05",
+    "source_start_line": 4356,
+    "source_end_line": 4364,
+    "function_sha256": "12e96bbd476f183092296d46e3c3e83053b062733bbe52a0c6eeb22e1f9b1f70"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "weberContrast",
+    "source_id": "SOURCE_05",
+    "source_start_line": 4742,
+    "source_end_line": 4751,
+    "function_sha256": "e86654a722508dd0719b48ee230e4ae11cc0a413df7e0c242d2aa9e73136fedc"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "count_reversals_HighLow",
+    "source_id": "SOURCE_05",
+    "source_start_line": 4935,
+    "source_end_line": 4975,
+    "function_sha256": "f5bfa0e90b69c89cd55172e9d5b3833e6a100cc9cde639e02d2ec94a5b2b5d00"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "returnOnce",
+    "source_id": "SOURCE_05",
+    "source_start_line": 5912,
+    "source_end_line": 5920,
+    "function_sha256": "a4ce8056257a6923962cb39e06cc56478e8c254e48d82cea64fb81705c3880fe"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "appendTrials",
+    "source_id": "SOURCE_05",
+    "source_start_line": 5924,
+    "source_end_line": 5928,
+    "function_sha256": "13d76d34ce930a0f83ce5ccdf9bdf6d7070e1d53b284b21eded43e8c9af7adf6"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "find_ADM_data_removedFiles",
+    "source_id": "SOURCE_05",
+    "source_start_line": 6074,
+    "source_end_line": 6163,
+    "function_sha256": "165d0088be36bafc1f03d8b06efc38bb5468a4da33c0e946aad7d92694191712"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "permutationsBootstrapNp",
+    "source_id": "SOURCE_05",
+    "source_start_line": 18798,
+    "source_end_line": 18840,
+    "function_sha256": "4b095afff496280281a8bdc29bcac2508e0d5271097bec25f2e7149eb75151e6"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "factorialN",
+    "source_id": "SOURCE_05",
+    "source_start_line": 20337,
+    "source_end_line": 20341,
+    "function_sha256": "3a8759ffca934eafd25d88d1bfa12e7a5eb232d5e2c3855d8987d955503ff962"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "nChooseR_list",
+    "source_id": "SOURCE_05",
+    "source_start_line": 20346,
+    "source_end_line": 20351,
+    "function_sha256": "a8b72c7b475265eb55755152de57d5de3c1720a987954eeee43b12de830655e5"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "singleListpop",
+    "source_id": "SOURCE_05",
+    "source_start_line": 20440,
+    "source_end_line": 20452,
+    "function_sha256": "2c73f358b031266abf924364936c19aab8f40f5bca9eb71552656c17663a80ac"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "createCombitorialList",
+    "source_id": "SOURCE_05",
+    "source_start_line": 20456,
+    "source_end_line": 20473,
+    "function_sha256": "e590f2efbc35e4830821d64b1a785258086c24fb7034b2b8dd3d9840ab3e56f7"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "fileMethodPair",
+    "source_id": "SOURCE_05",
+    "source_start_line": 20496,
+    "source_end_line": 20502,
+    "function_sha256": "d55d4fe933fd239c7a38d72009810aca3e8c1cba0a58fcc099b410d6f408d009"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "checkRemoveList",
+    "source_id": "SOURCE_05",
+    "source_start_line": 20506,
+    "source_end_line": 20524,
+    "function_sha256": "5090f571f4f8416ca0ffb90a5f96b79b5d34f23bd3fff4b0b5cbf9e3f3ccf9f2"
+  },
+  {
+    "public_file": "code/raw_helpers.py",
+    "function": "removeData",
+    "source_id": "SOURCE_05",
+    "source_start_line": 20528,
+    "source_end_line": 20560,
+    "function_sha256": "c44d11000686b50b5cc0290b3edbbd02a7b575e313015dd3e840a6a7dd8db226"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "indexInListRemove",
+    "source_id": "SOURCE_04",
+    "source_start_line": 513,
+    "source_end_line": 523,
+    "function_sha256": "d2fa189043322b2ea642ef9494f97d3b3cf76624cb6429a6d471db0e7aac47f1"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "findCorrespondingIndices",
+    "source_id": "SOURCE_04",
+    "source_start_line": 770,
+    "source_end_line": 781,
+    "function_sha256": "7454319a29f930fb99b24fb61e662941b949b59747ff8dae707f9cc54f92b7b1"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "getIndexedValues",
+    "source_id": "SOURCE_04",
+    "source_start_line": 1615,
+    "source_end_line": 1622,
+    "function_sha256": "7cd69443e309c35e2f76cd104cca8753a905bce41a21258064f58784f487a5b4"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "count_reversals_HighLow",
+    "source_id": "SOURCE_04",
+    "source_start_line": 4935,
+    "source_end_line": 4975,
+    "function_sha256": "f5bfa0e90b69c89cd55172e9d5b3833e6a100cc9cde639e02d2ec94a5b2b5d00"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "makeList",
+    "source_id": "SOURCE_04",
+    "source_start_line": 6564,
+    "source_end_line": 6568,
+    "function_sha256": "8a2b6665432a002108c0403a869f7d926007146f7950638401edd8e3db586192"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "greenFUNC_phase",
+    "source_id": "SOURCE_04",
+    "source_start_line": 6908,
+    "source_end_line": 6913,
+    "function_sha256": "98462cc13b7db7963d158e288ec74b4459b2a50c134f1efbd3808e3d2cd6eb9a"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "find_peak_vally_trio",
+    "source_id": "SOURCE_04",
+    "source_start_line": 13418,
+    "source_end_line": 13438,
+    "function_sha256": "1d0ba4fd6174dca8f7376c120a4630b284c7a38d857a35512070a8ed634f7ac2"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "largestNvalues",
+    "source_id": "SOURCE_04",
+    "source_start_line": 20875,
+    "source_end_line": 20886,
+    "function_sha256": "17cb44dc87f32dc40834cdd0383a0a0d55f85c5ce64c356c446ea9e8c2b22c80"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "goodnessFit_Residual_Analysis",
+    "source_id": "SOURCE_04",
+    "source_start_line": 20992,
+    "source_end_line": 21015,
+    "function_sha256": "1ca2abc2dd9108fac6818c929b7a805d7c52d5ab0c4b9f1a341eacf063baf0b1"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "nLargest_elements",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21047,
+    "source_end_line": 21072,
+    "function_sha256": "9e7cdd81c4e3b41d78b82b327dd013758e9412e2f0b5d72d08c3d649c23833aa"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "get_peaks_vally_distributions",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21114,
+    "source_end_line": 21209,
+    "function_sha256": "a9951b4de7d5ffddca3b0024bd90a8e31f6648b41f14d5172ac68e5b184bda47"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "frequency_match_score",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21275,
+    "source_end_line": 21296,
+    "function_sha256": "9b488a3e0235d73b59f0ff7f5b868dfe1242556752ef7e80e917c954d8efc2e0"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "getIndex_sortDataRegion",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21385,
+    "source_end_line": 21392,
+    "function_sha256": "29f76c55f3b58a1f3209517552670dc04ee12990f6a47e7f6b11e0ad240d6038"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "fit_to_ISF",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21450,
+    "source_end_line": 21463,
+    "function_sha256": "47f2ca5759941ee9c04bf2adbe61cf239ea1aff7989a6ac372045b60ceef6e85"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "fitFunctionLimit",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21499,
+    "source_end_line": 21522,
+    "function_sha256": "b7ded35dfb4de5b08286b65abbc70e075a1a742c8eb0703aa8137664cb502b39"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "neg_loglik",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21582,
+    "source_end_line": 21595,
+    "function_sha256": "672718c6d69be40112e3e8758191e46cd416d2509bfa1b55dfb2cbd7a54c12dd"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "MLE_range_frequency",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21601,
+    "source_end_line": 21711,
+    "function_sha256": "d264c9758b2fea83a8eef137a0032e56644adf4146ec74b604d47674becd61c4"
+  },
+  {
+    "public_file": "code/fit_helpers.py",
+    "function": "fitFunction",
+    "source_id": "SOURCE_04",
+    "source_start_line": 21716,
+    "source_end_line": 21739,
+    "function_sha256": "7000cc836a757e33170c557606c83d030a9b7fea29a99682692f199ab2c0628e"
+  }
+]

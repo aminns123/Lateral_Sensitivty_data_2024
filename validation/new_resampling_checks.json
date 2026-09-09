@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "same_seed_repeats_numeric_output": true,
+  "different_seed_changes_output": true,
+  "new_profiles_agree_with_explicit_126_subset_pool": true,
+  "existing_run_overwrite_refused": true,
+  "samples_per_run": 100,
+  "historical_seed_claimed": false
+}
